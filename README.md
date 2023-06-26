@@ -9,3 +9,7 @@
 young00805/young00805 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=young00805&style=flat-square&color=0088cc)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=young00805&label=Profile%20views&color=0e75b6&style=flat" alt="young00805" /> </p>
