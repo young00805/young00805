@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Lee
+
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=f46&center=false&vCenter=true&width=500&height=22&lines=A+IC-Chips+sales+from+china)
 - contact: lee.young00805@gmail.com
 
 <!---
